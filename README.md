@@ -1,4 +1,4 @@
-# McChili
+# Thomas Noell
 
 Hello, my name is Thomas Noell!
 This is my github page where I will be posting different scripts here that I have worked on.
