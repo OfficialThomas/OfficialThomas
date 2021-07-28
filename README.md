@@ -2,7 +2,7 @@
 
 Hello, my name is Thomas Noell and I am a proposed Computer Science: Game Design major at UCSC.
 
-This is my github page where I will be posting links to my other repositories that contain what I have worked on.
+This is my github page where I will be posting links to my other repositories that contain projects I have worked on.
 
 GDA CLUB (Game Development and ART Collab Club)
 - Buds (Audio Programmer for Voices): https://github.com/GDACollab/Buds
