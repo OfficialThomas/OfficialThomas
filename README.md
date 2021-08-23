@@ -8,12 +8,13 @@ GDA CLUB (Game Development and ART Collab Club)
 - Buds (Audio Programmer for Voices): https://github.com/GDACollab/Buds
 - Gremlin Garden (Track Difficulty Designer): https://github.com/GDACollab/GremlinGarden
 
-JavaScript in Phaser 3 (CMPM 120)
+JavaScript in Phaser 3 (UCSC's Game Development Experience)
 - Modded Rocket Patrol: https://github.com/OfficialThomas/Modded-Rocket-Patrol
 - Stage Fright: https://github.com/OfficialThomas/Stage-Fright
 - Treasure Island: https://github.com/OfficialThomas/Treasure-Island
 
-C# in Unity (CMPM 121)
+C# in Unity (UCSC's Game Technologies)
 - Planet Boutique: https://github.com/OfficialThomas/Planet-Boutique
 - Beetle Invasion: https://github.com/OfficialThomas/Beetle-Invasion
 - Game Stage: https://github.com/OfficialThomas/Unity-Game-Stage
+- Texture Effects and Animation: https://github.com/OfficialThomas/Textures-Effects-and-Animations
