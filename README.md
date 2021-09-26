@@ -8,6 +8,9 @@ GDA CLUB (Game Development and ART Collab Club)
 - Buds (Audio Programmer for Voices): https://github.com/GDACollab/Buds
 - Gremlin Garden (Track Difficulty Designer): https://github.com/GDACollab/GremlinGarden
 
+GDA Microgame Jam (September 25th 2021 to September 26th 2021)
+- Happy Hunter (Programmer and Designer): https://github.com/OfficialThomas/HappyHunting
+
 JavaScript in Phaser 3 (UCSC's Game Development Experience)
 - Modded Rocket Patrol: https://github.com/OfficialThomas/Modded-Rocket-Patrol
 - Stage Fright: https://github.com/OfficialThomas/Stage-Fright
