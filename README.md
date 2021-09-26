@@ -10,6 +10,8 @@ GDA CLUB (Game Development and ART Collab Club)
 
 GDA Microgame Jam (September 25th 2021 to September 26th 2021)
 - Happy Hunter (Programmer and Designer): https://github.com/OfficialThomas/HappyHunting
+  - Link to game: https://jonahrobot.itch.io/happyhunting
+  - Link to Microgame Jam: https://itch.io/jam/microgame-jam-2021
 
 JavaScript in Phaser 3 (UCSC's Game Development Experience)
 - Modded Rocket Patrol: https://github.com/OfficialThomas/Modded-Rocket-Patrol
