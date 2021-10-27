@@ -18,7 +18,7 @@ JavaScript in Phaser 3 (UCSC's Game Development Experience)
 - Stage Fright: https://github.com/OfficialThomas/Stage-Fright
 - Treasure Island: https://github.com/OfficialThomas/Treasure-Island
 
-JavaScrip in P5.js (UCSC's Visual Communication and Interaction Design)
+JavaScript in P5.js (UCSC's Visual Communication and Interaction Design)
 - Interactive Game Poster: https://preview.p5js.org/OfficialThomas/present/j4y0hSQaJ
 
 C# in Unity (UCSC's Game Technologies)
