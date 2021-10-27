@@ -5,7 +5,7 @@ Hello, my name is Thomas Noell and I am a proposed Computer Science: Game Design
 This is my github page where I will be posting links to my other repositories that contain projects I have worked on.
 
 GDA CLUB (Game Development and ART Collab Club)
-- Buds (Audio Programmer for Voices): https://github.com/GDACollab/Buds
+- Buds (Audio Programmer for Voice Acting): https://github.com/GDACollab/Buds
 - Gremlin Garden (Track Difficulty Designer): https://github.com/GDACollab/GremlinGarden
 
 GDA Microgame Jam (September 25th 2021 to September 26th 2021)
