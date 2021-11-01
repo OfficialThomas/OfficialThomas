@@ -1,6 +1,6 @@
 # Thomas Noell's gitHub
 
-Hello, my name is Thomas Noell and I am a proposed Computer Science: Game Design major at UCSC.
+Hello, my name is Thomas Noell and I am a Computer Science: Game Design major at UCSC.
 
 This is my github page where I will be posting links to my other repositories that contain projects I have worked on.
 
