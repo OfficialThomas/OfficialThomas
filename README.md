@@ -19,7 +19,7 @@ JavaScript in Phaser 3 (UCSC's Game Development Experience)
 - Treasure Island: https://github.com/OfficialThomas/Treasure-Island
 
 JavaScript in P5.js (UCSC's Visual Communication and Interaction Design)
-- Interactive Game Poster: https://preview.p5js.org/OfficialThomas/present/j4y0hSQaJ
+- Interactive Game Poster: https://officialthomas.itch.io/katamari-interactive-game-poster
 
 C# in Unity (UCSC's Game Technologies)
 - Planet Boutique: https://github.com/OfficialThomas/Planet-Boutique
