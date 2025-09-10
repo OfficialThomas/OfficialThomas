@@ -1,4 +1,4 @@
-<h1 align="center">I'm Thomas Noell</h1>
+<h1 align="center">Thomas Noell</h1>
 <h3 align="center">A designer/programmer from Los Angeles</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialthomas&label=Profile%20views&color=0e75b6&style=flat" alt="officialthomas" /> </p>
