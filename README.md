@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **thomasnoellofficial@gmail.com**
 
+- - 👨‍💻 All of my projects are available at [https://github.com/OfficialThomas/OfficialThomasPortfolio](https://github.com/OfficialThomas/OfficialThomasPortfolio)
+
 - ⚡ Fun fact **I spend my Fridays dancing.**
 
 <h3 align="left">Connect with me:</h3>
